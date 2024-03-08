@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pi0/laravel-multimix.git"
+    "url": "git+https://github.com/ferling/laravel-multimix.git"
   },
-  "author": "Pooya Parsa <pyapar@gmail.com>",
+  "author": "Tolnai Zoltán <tolnaiz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pi0/laravel-multimix/issues"
+    "url": "https://github.com/tolnaiz/laravel-multimix/issues"
   },
-  "homepage": "https://github.com/pi0/laravel-multimix#readme",
+  "homepage": "https://github.com/tolnaiz/laravel-multimix#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   }
