@@ -1,5 +1,5 @@
 {
-  "name": "ferling/laravel-multimix",
+  "name": "laravel-multimix",
   "version": "0.0.3",
   "description": "Laravel-Mix helper for projects with complex & multi assets",
   "main": "lib/utils.js",
