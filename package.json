@@ -1,6 +1,6 @@
 {
   "name": "laravel-multimix",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Laravel-Mix helper for projects with complex & multi assets",
   "main": "lib/utils.js",
   "bin": "bin/mix.js",
