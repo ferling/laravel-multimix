@@ -1,5 +1,5 @@
 {
-  "name": "laravel-multimix",
+  "name": "@ferling/laravel-multimix",
   "version": "0.0.3",
   "description": "Laravel-Mix helper for projects with complex & multi assets",
   "main": "lib/utils.js",
@@ -14,9 +14,9 @@
   "author": "Tolnai Zoltán <tolnaiz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tolnaiz/laravel-multimix/issues"
+    "url": "https://github.com/ferling/laravel-multimix/issues"
   },
-  "homepage": "https://github.com/tolnaiz/laravel-multimix#readme",
+  "homepage": "https://github.com/ferling/laravel-multimix#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   }
