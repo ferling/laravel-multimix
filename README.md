@@ -1,10 +1,10 @@
 <p align="center">
 <a href="#">
-    <img src="https://github.com/pi0/laravel-multimix/raw/master/banner.png" width="300px" alt="Laravel MultiMix">
+    <img src="https://github.com/ferling/laravel-multimix/raw/master/banner.png" width="300px" alt="Laravel MultiMix">
 </a>
 <br>
-<a href="https://www.npmjs.com/package/laravel-multimix">
-    <img alt="" src="https://img.shields.io/npm/v/laravel-multimix.svg?style=flat-square">
+<a href="https://www.npmjs.com/package/@ferling/laravel-multimix">
+    <img alt="" src="https://img.shields.io/npm/v/@ferling/laravel-multimix.svg?style=flat-square">
 </a>
 </p>
 
